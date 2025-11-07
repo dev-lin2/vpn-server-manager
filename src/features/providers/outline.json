@@ -1,0 +1,14 @@
+{
+  "providerId": "outline",
+  "guide": {
+    "title": "Create Outline Server",
+    "markdown": "1. Launch VPS.\n2. Install Outline server.\n3. Save management API URL and token."
+  },
+  "config": {
+    "fields": [
+      { "key": "apiBaseUrl", "label": "API URL", "type": "text", "required": true },
+      { "key": "accessToken", "label": "Access Token", "type": "password", "required": true }
+    ]
+  }
+}
+

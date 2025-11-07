@@ -1,0 +1,10 @@
+[
+  {
+    "id": "outline",
+    "name": "Outline",
+    "summary": "Self-hosted Shadowsocks VPN manager.",
+    "logo": "/logos/outline.svg",
+    "configSchemaRef": "/features/providers/outline.json"
+  }
+]
+
